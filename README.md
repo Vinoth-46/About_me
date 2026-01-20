@@ -22,14 +22,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **...**
-- 👯 I’m looking to collaborate on **...**
-- 🤝 I’m looking for help with **...**
-- 🌱 I’m currently learning **...**
-- 💬 Ask me about **Python, Java, Databases**
-- ⚡ Fun fact **...**
+-🔭 I’m currently working on Web Development projects and my final year project  
+-👯 I’m looking to collaborate on Full-Stack and frontend projects  
+-🤝 I’m looking for help with backend architecture and deployment  
+-🌱 I’m currently learning React, Tailwind CSS, Node.js, and REST APIs  
+-💬 Ask me about HTML, CSS, JavaScript, React, Python, and Databases  
+-⚡ Fun fact: I enjoy building clean UIs more than training models 😄
 
 ---
 
