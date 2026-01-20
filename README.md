@@ -49,7 +49,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinoth-46&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinoth-46&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vinoth-46&theme=tokyonight)
+
 
 </div>
 
